@@ -1,219 +1,221 @@
-"nodes": [
-  {
-    "id": "id1",
-    "label": "Testinhalt 1 (bitte stehenlassen)",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  },
-  {
-    "id": "id2",
-    "label": "hallo2",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  },
-  {
-    "id": "id3",
-    "label": "hallo3",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747" 
-  },
-  {
-    "id": "id4",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747" 
-  },
-  {
-    "id": "id5",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747" 
-  },
-  {
-    "id": "id6",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  },
-  {
-    "id": "id7",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  },
-  {
-    "id": "id8",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  },
-  {
-    "id": "id9",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747" 
-  },
-  {
-    "id": "id10",
-    "label": "hall4",
-    "x": 1,
-    "y": 1,
-    "size": 1,
-    "color": "#474747"
-  }
-],
-"links": [
-  {
-    "source": "id1",
-    "target": "id2",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo2",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id1",
-    "target": "id2",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo3",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id4",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id5",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id6",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id7",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id8",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id8",
-    "target": "id4",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id9",
-    "target": "id7",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id3",
-    "target": "id4",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id9",
-    "target": "id2",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id9",
-    "target": "id10",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id9",
-    "target": "id8",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id1",
-    "target": "id4",
-    "width": 3,
-    "color": "#858585", 
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  },
-  {
-    "source": "id4",
-    "target": "id5",
-    "width": 3,
-    "color": "#858585",
-    "label": "hallo4",
-    "Anzahl": 3,
-    "Umsatz": 1
-  }
-]
+{
+  "nodes": [
+    {
+      "id": "id1",
+      "label": "Testinhalt 1 (bitte stehenlassen)",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    },
+    {
+      "id": "id2",
+      "label": "hallo2",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    },
+    {
+      "id": "id3",
+      "label": "hallo3",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747" 
+    },
+    {
+      "id": "id4",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747" 
+    },
+    {
+      "id": "id5",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747" 
+    },
+    {
+      "id": "id6",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    },
+    {
+      "id": "id7",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    },
+    {
+      "id": "id8",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    },
+    {
+      "id": "id9",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747" 
+    },
+    {
+      "id": "id10",
+      "label": "hall4",
+      "x": 1,
+      "y": 1,
+      "size": 1,
+      "color": "#474747"
+    }
+  ],
+  "links": [
+    {
+      "source": "id1",
+      "target": "id2",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo2",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id1",
+      "target": "id2",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo3",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id4",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id5",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id6",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id7",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id8",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id8",
+      "target": "id4",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id9",
+      "target": "id7",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id3",
+      "target": "id4",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id9",
+      "target": "id2",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id9",
+      "target": "id10",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id9",
+      "target": "id8",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id1",
+      "target": "id4",
+      "width": 3,
+      "color": "#858585", 
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    },
+    {
+      "source": "id4",
+      "target": "id5",
+      "width": 3,
+      "color": "#858585",
+      "label": "hallo4",
+      "Anzahl": 3,
+      "Umsatz": 1
+    }
+  ]
+}
