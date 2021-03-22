@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "id1",
-      "label": "Account 1: Herbert",
+      "label": "Account 1: Asterik",
       "x": 1,
       "y": 1,
       "size": 1,
@@ -10,7 +10,7 @@
     },
     {
       "id": "id2",
-      "label": "Account 2: Hans",
+      "label": "Account 2: Obelix",
       "x": 1,
       "y": 1,
       "size": 1,
@@ -18,7 +18,7 @@
     },
     {
       "id": "id3",
-      "label": "Account 3: Thomas",
+      "label": "Account 3: Majestix",
       "x": 1,
       "y": 1,
       "size": 1,
@@ -26,7 +26,7 @@
     },
     {
       "id": "id4",
-      "label": "Account 4: Marc",
+      "label": "Account 4: Miraculix",
       "x": 1,
       "y": 1,
       "size": 1,
@@ -34,7 +34,7 @@
     },
     {
       "id": "id5",
-      "label": "Account 5: Andreas",
+      "label": "Account 5: Troubadix",
       "x": 1,
       "y": 1,
       "size": 1,
